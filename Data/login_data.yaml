@@ -1,0 +1,8 @@
+data_login_test001:
+  username: 18600001111
+  password: 12345678
+  test_toast: 密码错误
+data_login_test001:
+  username:
+  password: 87654321
+  test_toast: 请输入手机号
